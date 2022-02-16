@@ -1,3 +1,3 @@
-# Portifolio Escolar: 1ºAno Desenvolvimento de Sistemas!!
+# Portfolio Escolar
 
-👨🏻‍💻Portifolio Programação WEB: http://etec199-2021-gabrielgoes.atwebpages.com
+👨🏻‍💻Portfolio Programação WEB: http://etec199-2021-gabrielgoes.atwebpages.com
